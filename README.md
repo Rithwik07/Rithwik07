@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Devincept contribution program.
-- 🌱 I’m currently learning javascript, C++.
+- 🔭 Skills: Javascript(DOM manipulations), HTmL, CSS, Python, Bootstrap, RDBMS-SQL-SQLite ,MySQL ,Java(Basic).
