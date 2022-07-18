@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 Here are some ideas to get you started:
 
-- 🔭 Skills: Javascript(DOM manipulations), HTmL, CSS, Python, Bootstrap, RDBMS-SQL-SQLite ,MySQL ,Java(Basic).
+- 🔭 Skills: Javascript(DOM manipulations), HTML, CSS, Python, Bootstrap, RDBMS-SQL-SQLite ,MySQL ,Java(Basic).
